@@ -1,6 +1,6 @@
 # Topic-Analysis-using-NLP
 
-This Project inolves Topic Modelling of Review data for an Amazon Product using NLP
+This Project inolves Topic Modelling of Review data for an Product using NLP
 
 Given dataset involves text reviews of a product 
 
